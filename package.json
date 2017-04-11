@@ -1,0 +1,24 @@
+{
+  "name": "NodeJS-ChatBot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minhkhanb/NodeJS-ChatBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minhkhanb/NodeJS-ChatBot/issues"
+  },
+  "homepage": "https://github.com/minhkhanb/NodeJS-ChatBot#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "facebook-chat-api": "^1.3.0"
+  }
+}
